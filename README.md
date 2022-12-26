@@ -1,5 +1,6 @@
 ## Beta Test API
 
+
 [![Beta Tech](https://betasolutions.tech/assets/img/LogoBeta.png)](https://github.com/Beta-Tech-Costa-Rica/BetaTest)
 
 Requisitos técnicos

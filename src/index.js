@@ -3,7 +3,6 @@ import app from './app'
 import {sequelize} from './database.js'
 import { swaggerDocs } from './routes/swagger.js'
 
-
 async function main() {
     try {
         //await sequelize.authenticate()

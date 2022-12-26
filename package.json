@@ -1,7 +1,7 @@
 {
   "name": "prueba",
   "version": "1.0.0",
-  "description": "Prueba tecnica de BetaTech consumiendo docker de PostgreSQL",
+  "description": "Prueba tecnica de BetaTech",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir build",

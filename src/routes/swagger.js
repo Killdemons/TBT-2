@@ -34,6 +34,7 @@ const swaggerOptions = {
   },
   apis: [`${path.join(__dirname, "./*.js")}`, `${path.join(__dirname, "../models/*.js")}`]
 };
+
 const swaggerSpec = swaggerJSDoc(swaggerOptions)
 // Function to setup our docs
 export const swaggerDocs = (app, port) => {

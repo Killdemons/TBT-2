@@ -15,5 +15,4 @@ app.use("/persons", personsRoutes)
 app.use("/actives", activesRoutes)
 app.use("/auth", authRoutes)
 
-
 export default app

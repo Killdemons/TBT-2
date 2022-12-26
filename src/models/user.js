@@ -52,4 +52,3 @@ export const user = sequelize.define('users', {
         }
       }
 })
-

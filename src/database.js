@@ -6,4 +6,3 @@ export const sequelize = new Sequelize(process.env.PG_DATABASE, process.env.PG_U
     dialect: 'postgres',
     port: process.env.PG_EXPOSE_PORT
 });
-
