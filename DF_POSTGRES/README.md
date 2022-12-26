@@ -41,7 +41,7 @@ RUN mkdir -p /var/lib/postgresql_data1/data/pgdata
 COPY ./postgres.conf /var/lib/postgresql_data1/data/pgdata
 ```
 
-Go to [NodeJS API](../) to continue
+Go to [NodeJS API](https://github.com/Killdemons/TBT-2) to continue
 
 ***
 [![Powered by](https://img.shields.io/badge/Powered%20by-Eduardo%20Salas-blue)](https://github.com/EdoSalas)
