@@ -102,6 +102,9 @@ Run this command to execute the NodeJS app
 ```bash
 npm run dev
 ```
+
+Go to check your [API documentation](http://localhost:3000/)
+
 ---
 
 [![Powered by](https://img.shields.io/badge/Powered%20by-Bryan%20Campos-red)](https://github.com/Killdemons)
